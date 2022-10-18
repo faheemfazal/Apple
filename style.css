@@ -1,0 +1,109 @@
+body {
+    background-color: transparent;
+}
+
+.lastest {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+
+.header-div {
+    position: sticky;
+    top: 0;
+    height: 2.7rem;
+    background-color: #444647d4 !important;
+    padding-top: -4rem;
+    align-content: center;
+}
+
+.nav {
+    position: sticky;
+    top: 0;
+}
+
+.second-head {
+    width: 93.7rem;
+    height: 23rem;
+
+
+}
+
+.second-sec {
+
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    background: rgb(234, 93, 241);
+    background: linear-gradient(90deg, rgba(234, 93, 241, 1) 15%, rgba(142, 34, 147, 1) 41%, rgba(47, 6, 68, 1) 86%);
+}
+
+.sec-img {
+    text-align: center;
+
+
+}
+
+.fist-bag {
+
+
+    position: relative;
+    background: url(image/hero_iphone14pro__e5xbgo5ffhg2_mediumtall.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 75vh;
+
+
+}
+
+@media (max-width:800px) {
+    .fist-bag {
+        min-height: 70vh;
+    }
+
+}
+
+.anitation {
+
+
+
+    background-image: linear-gradient(359deg, rgba(234, 93, 241, 1) 15%, rgba(142, 34, 147, 1) 41%, rgba(47, 6, 68, 1) 86%);
+}
+
+.last {
+    border-radius: 26px;
+    background-color: aliceblue;
+    color: rgb(5, 4, 4);
+    border: 0;
+    font-size: 18px;
+}
+
+.heading {
+    font-size: 13px;
+}
+
+.line {
+    font-size: 11px;
+}
+
+#main {
+    background: rgb(251, 252, 252);
+}
+
+#light {
+
+    background-color: #3a3b3c;
+    left: 10vh;
+    width: 6vh;
+    height: 6vh;
+    border: 0;
+}
+
+#nw {
+    background: white;
+    color: rgb(107, 56, 56);
+}
+
+#apple {
+    color: #3a3b3c;
+}
